@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.conteiner{
+    display: flex;
+    border: 2px solid red;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.first-content {
+    display: flex;
+}
+.list-social-media{
+    display: none;
+}
+.second-content {
+    position: absolute;
+    display: none;
+}
